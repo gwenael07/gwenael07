@@ -57,11 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gwenael07&show_icons=true&theme=tokyonight">
 </p>
 
----
-## 🎯 Goals
-- 🔍 Get an **internship in software development / IT**
-- 🤖 Improve my skills in **Python & AI**
-- 🚀 Grow through concrete and well-structured projects
+
 
 
 
