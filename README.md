@@ -67,6 +67,7 @@ Catalogue de chaussures, volants, t-shirts et raquettes de **4 marques différen
 Application web autour du cinéma utilisant une **API** pour afficher films et informations détaillées.
 
 **Tech :** JavaScript, HTML, CSS, API
+**Contexte :** Projet d’étude
 
 ---
 
@@ -94,14 +95,9 @@ Développement d’un **Monopoly en Python** pour approfondir :
 
 ## 🎯 Objectifs
 - 🔍 Trouver un **stage en développement / informatique**
-- 🤖 Approfondir l’**Intelligence Artificielle**
 - 🚀 Monter en niveau via des projets concrets
 
----
 
-<p align="center">
-<i>“Code. Learn. Improve. Repeat.”</i>
-</p>
 
 
 
