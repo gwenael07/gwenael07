@@ -1,78 +1,107 @@
-# 👋 Salut, moi c’est Gwenael
+<h1 align="center">👋 Yo, moi c’est Gwenael</h1>
 
-🎓 Étudiant en informatique (1ʳᵉ année de Master) à **SUPINFO**  
-💻 Développeur en formation  
-🤖 Intéressé par l’**Intelligence Artificielle**  
-🔍 À la recherche d’un **stage de première année de Master**
+<p align="center">
+🎓 Étudiant en informatique — <b>Master 1 @ SUPINFO</b><br>
+💻 Développeur en construction | 🤖 Intéressé par l’IA<br>
+🔍 À la recherche d’un <b>stage de 1ʳᵉ année de Master</b>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gwenael-cercus/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gwenael%20Cercus-blue?logo=linkedin">
+</a>
+</p>
 
 ---
 
-## 🚀 À propos de moi
-Passionné par l’informatique et le développement, je travaille sur des projets académiques et personnels pour renforcer mes compétences, notamment en **Python**, **JavaScript** et dans le développement web.  
-Je m’intéresse particulièrement à l’**IA**, aux algorithmes et aux projets qui demandent de la réflexion et de la logique.
+## 🧠 Qui suis-je ?
+Étudiant en informatique passionné par le développement et la logique algorithmique.  
+Je travaille sur des **projets académiques et personnels** pour consolider mes bases, avec un intérêt particulier pour **Python**, les **jeux**, les **APIs** et l’**Intelligence Artificielle**.
+
+J’aime comprendre comment les choses fonctionnent, les démonter… puis les refaire proprement.
 
 ---
 
-## 🛠️ Technologies & Langages
+## 🛠️ Stack technique
 
-**Langages :**
-- 🐍 Python  
-- 🌐 HTML / CSS  
-- ⚡ JavaScript  
-- 🗄️ SQL  
-- 💻 C  
-- 🐘 PHP  
+### 💻 Langages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+</p>
 
-**Outils & concepts :**
-- Git / GitHub  
+### ⚙️ Outils & concepts
+- Git & GitHub  
 - APIs REST  
-- Programmation orientée objet  
-- Projets académiques & personnels  
+- Programmation Orientée Objet  
+- Projets académiques & perso  
 
 ---
 
-## 📂 Projets
+## 🚧 Projets principaux
 
 ### 🎮 TheGameOfAmazon
-Implémentation du jeu **The Game of Amazons** en Python dans le cadre d’un projet d’étude.  
-Jeu de stratégie abstrait à deux joueurs sur un plateau où chaque déplacement bloque progressivement des cases, demandant anticipation et stratégie.
+Implémentation du jeu **The Game of Amazons** en Python.  
+Jeu de stratégie abstrait à deux joueurs où chaque déplacement bloque progressivement le plateau, forçant anticipation et réflexion.
 
-**Tech :** Python
+**Tech :** Python  
+**Contexte :** Projet d’étude
 
 ---
 
 ### 🏸 ECommerceBadminton
 Site de e-commerce fictif dédié au badminton.  
-Vente de chaussures, volants, t-shirts et raquettes provenant de **4 marques différentes**.
+Catalogue de chaussures, volants, t-shirts et raquettes de **4 marques différentes**.
 
-**Tech :** HTML, CSS, JavaScript
+**Tech :** HTML, CSS, JavaScript  
+**Contexte :** Projet d’étude
 
 ---
 
 ### 🎬 ProjetCinemaJS
-Application web autour du cinéma utilisant une **API** pour afficher des films et leurs informations.
+Application web autour du cinéma utilisant une **API** pour afficher films et informations détaillées.
 
 **Tech :** JavaScript, HTML, CSS, API
 
 ---
 
-### 🎲 Projet personnel — Monopoly en Python
-Création d’un **Monopoly en Python** (en cours).  
-Projet personnel pour approfondir la logique de jeu, la POO et la gestion des règles.
+### 🎲 Monopoly en Python *(projet personnel — en cours)*
+Développement d’un **Monopoly en Python** pour approfondir :
+- la logique de jeu
+- la POO
+- la gestion des règles complexes
 
 **Tech :** Python
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub en chiffres
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gwenael07&show_icons=true&theme=dark)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwenael07&layout=compact&theme=dark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gwenael07&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenael07&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
-## 📫 Me contacter
-- 💼 LinkedIn : [Gwenael Cercus](https://www.linkedin.com/in/gwenael-cercus/)
+## 🎯 Objectifs
+- 🔍 Trouver un **stage en développement / informatique**
+- 🤖 Approfondir l’**Intelligence Artificielle**
+- 🚀 Monter en niveau via des projets concrets
+
+---
+
+<p align="center">
+<i>“Code. Learn. Improve. Repeat.”</i>
+</p>
 
 
 
