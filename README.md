@@ -1,7 +1,7 @@
 <h1 align="center">👋 Yo, moi c’est Gwenael</h1>
 
 <p align="center">
-🎓 Étudiant en informatique — <b>Master 1 @ SUPINFO</b><br>
+🎓 Étudiant en informatique — <b>1ʳᵉ année de MASTER SUPINFO</b><br>
 💻 Développeur en construction | 🤖 Intéressé par l’IA<br>
 🔍 À la recherche d’un <b>stage de 1ʳᵉ année de Master</b>
 </p>
@@ -19,14 +19,6 @@
 
 ---
 
-## 🧠 Qui suis-je ?
-Étudiant en informatique passionné par le développement et la logique algorithmique.  
-Je travaille sur des **projets académiques et personnels** pour consolider mes bases, avec un intérêt particulier pour **Python**, les **jeux**, les **APIs** et l’**Intelligence Artificielle**.
-
-J’aime comprendre comment les choses fonctionnent, les démonter… puis les refaire proprement.
-
----
-
 ## 🛠️ Stack technique
 
 ### 💻 Langages
@@ -41,7 +33,6 @@ J’aime comprendre comment les choses fonctionnent, les démonter… puis les r
 </p>
 
 ### ⚙️ Outils & concepts
-- Git & GitHub  
 - APIs REST  
 - Programmation Orientée Objet  
 - Projets académiques & perso  
