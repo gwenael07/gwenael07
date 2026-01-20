@@ -1,7 +1,7 @@
-<h1 align="center">👋 Yo, moi c’est Gwenael</h1>
+<h1 align="center">👋 Salut, moi c’est Gwenael</h1>
 
 <p align="center">
-🎓 Étudiant en informatique — <b>Master 1 @ SUPINFO</b><br>
+🎓 Étudiant en informatique — <b>1ʳᵉ année de MASTER SUPINFO</b><br>
 💻 Développeur en progression | 🤖 Intéressé par l’IA<br>
 🔍 À la recherche d’un <b>stage de 1ʳᵉ année de Master</b>
 </p>
