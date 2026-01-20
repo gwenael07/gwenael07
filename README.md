@@ -7,10 +7,15 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gwenael-cercus/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Gwenael%20Cercus-blue?logo=linkedin">
-</a>
+  <a href="https://www.linkedin.com/in/gwenael-cercus/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gwenael%20Cercus-blue?logo=linkedin">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gwenael.cercus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
