@@ -1,9 +1,9 @@
-<h1 align="center">👋 Salut, moi c’est Gwenael</h1>
+<h1 align="center">👋 Hi, I’m Gwenael</h1>
 
 <p align="center">
-🎓 Étudiant en informatique — <b>1ʳᵉ année de MASTER SUPINFO</b><br>
-💻 Développeur en progression | 🤖 Intéressé par l’IA<br>
-🔍 À la recherche d’un <b>stage de 1ʳᵉ année de Master</b>
+🎓 French Computer Science Student — <b>1st year Master’s at SUPINFO</b><br>
+💻 Aspiring Developer | 🤖 Interested in AI<br>
+🔍 Looking for a <b>1st-year Master’s internship</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 ---
-## 🛠️ Stack technique
+## 🛠️ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -29,26 +29,26 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 </p>
 
-**Concepts :** POO · APIs REST · Projets académiques & perso
+**Concepts:** OOP · REST APIs · Academic & personal projects
 
 ---
-## 🚧 Projets
+## 🚧 Projects
 
-**🎮 TheGameOfAmazon** — Implémentation du jeu *The Game of Amazons*  
-➡️ Jeu de stratégie abstrait à deux joueurs  
-**Tech :** Python
+**🎮 TheGameOfAmazon** — Implementation of *The Game of Amazons*  
+➡️ Two-player abstract strategy game  
+**Tech:** Python
 
-**🏸 ECommerceBadminton** — Site e-commerce fictif dédié au badminton  
-➡️ Catalogue multi-produits et multi-marques  
-**Tech :** HTML, CSS, JavaScript
+**🏸 ECommerceBadminton** — Fictional e-commerce website dedicated to badminton  
+➡️ Multi-product and multi-brand catalog  
+**Tech:** HTML, CSS, JavaScript
 
-**🎬 ProjetCinemaJS** — Application cinéma avec API  
-➡️ Affichage de films et informations détaillées  
-**Tech :** JavaScript, HTML, CSS, API
+**🎬 ProjetCinemaJS** — Movie application using an API  
+➡️ Movie listings and detailed information  
+**Tech:** JavaScript, HTML, CSS, API
 
-**🎲 Monopoly en Python** *(en cours)*  
-➡️ Projet personnel pour approfondir la logique de jeu et la POO  
-**Tech :** Python
+**🎲 Monopoly in Python** *(ongoing)*  
+➡️ Personal project to deepen game logic and OOP skills  
+**Tech:** Python
 
 ---
 ## 📊 GitHub
@@ -58,10 +58,11 @@
 </p>
 
 ---
-## 🎯 Objectifs
-- 🔍 Obtenir un **stage en développement / informatique**
-- 🤖 Monter en compétences en **Python & IA**
-- 🚀 Progresser via des projets concrets et structurés
+## 🎯 Goals
+- 🔍 Get an **internship in software development / IT**
+- 🤖 Improve my skills in **Python & AI**
+- 🚀 Grow through concrete and well-structured projects
+
 
 
 
