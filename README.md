@@ -1,8 +1,8 @@
 <h1 align="center">👋 Yo, moi c’est Gwenael</h1>
 
 <p align="center">
-🎓 Étudiant en informatique — <b>1ʳᵉ année de MASTER SUPINFO</b><br>
-💻 Développeur en construction | 🤖 Intéressé par l’IA<br>
+🎓 Étudiant en informatique — <b>Master 1 @ SUPINFO</b><br>
+💻 Développeur en progression | 🤖 Intéressé par l’IA<br>
 🔍 À la recherche d’un <b>stage de 1ʳᵉ année de Master</b>
 </p>
 
@@ -16,12 +16,9 @@
   </a>
 </p>
 
-
 ---
-
 ## 🛠️ Stack technique
 
-### 💻 Langages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
@@ -32,66 +29,40 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 </p>
 
-### ⚙️ Outils & concepts
-- APIs REST  
-- Programmation Orientée Objet  
-- Projets académiques & perso  
+**Concepts :** POO · APIs REST · Projets académiques & perso
 
 ---
+## 🚧 Projets
 
-## 🚧 Projets principaux
+**🎮 TheGameOfAmazon** — Implémentation du jeu *The Game of Amazons*  
+➡️ Jeu de stratégie abstrait à deux joueurs  
+**Tech :** Python
 
-### 🎮 TheGameOfAmazon
-Implémentation du jeu **The Game of Amazons** en Python.  
-Jeu de stratégie abstrait à deux joueurs où chaque déplacement bloque progressivement le plateau, forçant anticipation et réflexion.
+**🏸 ECommerceBadminton** — Site e-commerce fictif dédié au badminton  
+➡️ Catalogue multi-produits et multi-marques  
+**Tech :** HTML, CSS, JavaScript
 
-**Tech :** Python  
-**Contexte :** Projet d’étude
-
----
-
-### 🏸 ECommerceBadminton
-Site de e-commerce fictif dédié au badminton.  
-Catalogue de chaussures, volants, t-shirts et raquettes de **4 marques différentes**.
-
-**Tech :** HTML, CSS, JavaScript  
-**Contexte :** Projet d’étude
-
----
-
-### 🎬 ProjetCinemaJS
-Application web autour du cinéma utilisant une **API** pour afficher films et informations détaillées.
-
+**🎬 ProjetCinemaJS** — Application cinéma avec API  
+➡️ Affichage de films et informations détaillées  
 **Tech :** JavaScript, HTML, CSS, API
-**Contexte :** Projet d’étude
 
----
-
-### 🎲 Monopoly en Python *(projet personnel — en cours)*
-Développement d’un **Monopoly en Python** pour approfondir :
-- la logique de jeu
-- la POO
-- la gestion des règles complexes
-
+**🎲 Monopoly en Python** *(en cours)*  
+➡️ Projet personnel pour approfondir la logique de jeu et la POO  
 **Tech :** Python
 
 ---
-
-## 📊 GitHub en chiffres
+## 📊 GitHub
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gwenael07&show_icons=true&theme=tokyonight">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenael07&layout=compact&theme=tokyonight">
-</p>
-
 ---
-
 ## 🎯 Objectifs
-- 🔍 Trouver un **stage en développement / informatique**
-- 🚀 Monter en niveau via des projets concrets
+- 🔍 Obtenir un **stage en développement / informatique**
+- 🤖 Monter en compétences en **Python & IA**
+- 🚀 Progresser via des projets concrets et structurés
+
 
 
 
