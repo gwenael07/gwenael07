@@ -50,12 +50,7 @@
 ➡️ Personal project to deepen game logic and OOP skills  
 **Tech:** Python
 
----
-## 📊 GitHub
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gwenael07&show_icons=true&theme=tokyonight">
-</p>
 
 
 
